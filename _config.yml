@@ -1,4 +1,4 @@
-permalink: /posts/:title
+permalink: /posts/:DataScienceEveryday
 markdown: kramdown
 
 gems:
@@ -6,5 +6,5 @@ gems:
 
 name: HeeYoung Kim
 url: https://heeyoungk.github.com/blog
-description: A fantastic blog that is fantastic.
-twitter: -
+description: Data Science Everyday!
+twitter: HeeYoungK
